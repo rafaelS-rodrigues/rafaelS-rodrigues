@@ -4,6 +4,8 @@
 
 Me chamo Rafael S. Rodrigues, tenho 33 anos e sou natural do São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC-Minas.
 
+<a href="https://www.linkedin.com/in/rafael-rodrigues-8bba962a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQKKpmx1TCydHWyYr14Q4w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
    
 
 ---
